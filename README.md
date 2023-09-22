@@ -1,6 +1,20 @@
 # Google Cloud Router Terraform Module
 
 This module handles opinionated Google Cloud Platform routing.
+
+FedRAMP Compliance: Moderate
+
+### Usage
+```
+module "cloud_router" {
+    source = "github.com/Coalfire-CF/terraform-gcp-cloud-router"
+
+    name = "router-name"
+    project = "your-project"
+    region = "us-central1"
+    network = "your-network-id"
+}
+```
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
