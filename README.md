@@ -1,6 +1,8 @@
+![Coalfire](coalfire_logo.png)
+
 # Google Cloud Router Terraform Module
 
-This module handles opinionated Google Cloud Platform routing.
+This module handles opinionated Google Cloud Platform routing. Coalfire has tested this module with Terraform version 1.5.0 and the Hashicorp Google provider versions 4.70 - 5.0.
 
 FedRAMP Compliance: Moderate
 
