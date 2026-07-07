@@ -57,3 +57,18 @@ No modules.
 |------|-------------|
 | <a name="output_router"></a> [router](#output\_router) | The created router |
 <!-- END_TF_DOCS -->
+## Tree
+
+```text
+.
+|-- CHANGELOG.md
+|-- CONTRIBUTING.md
+|-- LICENSE
+|-- README.md
+|-- coalfire_logo.png
+|-- main.tf
+|-- nat.tf
+|-- outputs.tf
+|-- release-please-config.json
+|-- variables.tf
+```
