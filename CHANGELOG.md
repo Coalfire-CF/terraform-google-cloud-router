@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.1](https://github.com/Coalfire-CF/terraform-google-cloud-router/compare/v1.1.0...v1.1.1) (2026-08-20)
+
+
+### Bug Fixes
+
+* **release:** pass secrets to org-release (App token for release-please) ([#36](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/36)) ([b207015](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/b2070152ad661dca0b9c30789b3d38657b06a293))
+
+
+### Miscellaneous
+
+* adopt Actions v0.12.1 (bypass auto-merge + event-driven re-merge) ([0d0a055](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/0d0a055e964f3762d78ff35fde24c7636c22ccc2))
+* **ci:** adopt Coalfire-CF/Actions v0.11.3 ([#34](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/34)) ([25f5cb3](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/25f5cb387bb495af880d31a786a2ce32ad09d274))
+* **deps:** bump the org-actions group across 1 directory with 9 updates ([#47](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/47)) ([cbd71b1](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/cbd71b1a10aa68dbbb0153c9229610d0fbe332df))
+* **deps:** bump the org-actions group with 10 updates ([#38](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/38)) ([7018b7c](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/7018b7c1a64ac249f0e55ef35616e9b463dee642))
+* **deps:** bump the org-actions group with 10 updates ([#39](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/39)) ([e9e0b04](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/e9e0b04057db02964d94cf7f387d53671a7ac0c2))
+* **deps:** bump the org-actions group with 10 updates ([#40](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/40)) ([b80899a](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/b80899a5226b6d7de3454bd05f4b6fab670fe323))
+* **deps:** bump the org-actions group with 9 updates ([#37](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/37)) ([ccd0dfd](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/ccd0dfd6dce5454c4823a8c4b2ae5ebac8068918))
+* **deps:** bump the org-actions group with 9 updates ([#43](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/43)) ([5056171](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/50561713cfe7e7e890dac6a9d1abd65bbde57346))
+* **docs:** generate README from _header.md and _footer.md ([#45](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/45)) ([6b89dc1](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/6b89dc1e2f9600cc76d3ef27783971391a1f2ca2))
+* retire org-tree-readme ([#41](https://github.com/Coalfire-CF/terraform-google-cloud-router/issues/41)) ([7a0adf6](https://github.com/Coalfire-CF/terraform-google-cloud-router/commit/7a0adf68dc9d0a56943441f1fc32c713030e3bd5))
+
 ## [1.1.0](https://github.com/Coalfire-CF/terraform-google-cloud-router/compare/v1.0.3...v1.1.0) (2026-07-05)
 
 
